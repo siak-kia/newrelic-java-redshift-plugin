@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+com.newrelic.metrics.publish.Main-Class: com.newrelic.metrics.publish.Main
+

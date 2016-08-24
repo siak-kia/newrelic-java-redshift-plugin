@@ -1,0 +1,19 @@
+{
+  "license_key": "",
+
+  "agents": [
+    {
+
+      "GUID": "",
+      "version":"1.0",
+      "name": "Redshift_java",
+      "host": "",
+      "port": "5439",
+      "dbname": "",
+      "username": "",
+      "password": ""
+
+
+    }
+  ]
+}
